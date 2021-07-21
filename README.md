@@ -7,9 +7,9 @@
 * Muhammad Satryo Pamungkas Bimasakti - 05111840000070
 
 ### Soal dan Pembagian Tugas:
-* GUI untuk chat client - 
-* Pengiriman dan penerimaan file antar user - 
-* Group Chat - 
+* GUI untuk chat client - Shofiyah Mardhiyah
+* Pengiriman dan penerimaan file antar user - Michael Ricky
+* Group Chat - Muhammad Satryo Pamungkas Bimasakti
 
 ### Link Github:
 * [Link to Github](https://github.com/djtyranix/Pemrograman_Jaringan_E_Kelompok_2/tree/TugasChat)
