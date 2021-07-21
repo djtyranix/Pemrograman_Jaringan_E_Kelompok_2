@@ -1,22 +1,29 @@
 # Tugas Kelompok Chat Application
+
 ## Pemrograman Jaringan - E
+
 ---
-### Anggota Kelompok:
+
+### Anggota Kelompok
+
 * Michael Ricky - 05111840000078
 * Shofiyah Mardhiyah - 05111840000106
 * Muhammad Satryo Pamungkas Bimasakti - 05111840000070
 
-### Soal dan Pembagian Tugas:
+### Soal dan Pembagian Tugas
+
 * GUI untuk chat client - Shofiyah Mardhiyah
 * Pengiriman dan penerimaan file antar user - Michael Ricky
 * Group Chat - Muhammad Satryo Pamungkas Bimasakti
 
-### Link Github:
+### Link Github
+
 * [Link to Github](https://github.com/djtyranix/Pemrograman_Jaringan_E_Kelompok_2/tree/TugasChat)
 
 ---
 
-# Protokol
+## Protokol
+
 ## 1. Client File
 
 Client file dapat dijalankan dengan aturan protokol sebagai berikut:
@@ -63,7 +70,6 @@ beberapa method, yaitu:
 * `receive()`
 
     Method ini bertujuan untuk menerima file dari server, menulis file pada client, dan memberikan notifikasi saat file diterima. Jika terjadi error pada penerimaan file maka server akan terputus.
-
 
 ## 2. Server File
 
